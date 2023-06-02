@@ -10,9 +10,9 @@ _G.LoadingScreen = true
 
 _G.AntiLeave = true
 
-_G.MouseLock = true 
+_G.MouseLock = true
 
--- set them to false if you don't need them
+
 
 _G.ScriptName = "SimoNHub Scriptz"
 
